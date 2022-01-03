@@ -1,0 +1,20 @@
+{
+  "OWNER_ADDRESS": "0x05D5aF0dD6410924b785b9622DABB804EAA0b500",
+  "CONTRACT_ADDRESS": "0xADeb62148DB9B7832AB796013cd754835C56ACb6",
+
+  "SCAN_LINK": "https://Etherscan.com/0xADeb62148DB9B7832AB796013cd754835C56ACb6",
+  "NETWORK": {
+    "NAME": "Rinkeby test Network",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "bavarian bears ",
+  "SYMBOL": "TDL",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 400000000000,
+  "DISPLAY_COST": 0.045,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
