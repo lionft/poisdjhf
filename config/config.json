@@ -4,7 +4,7 @@
 
   "SCAN_LINK": "https://Etherscan.com/0xADeb62148DB9B7832AB796013cd754835C56ACb6",
   "NETWORK": {
-    "NAME": "Mumbai test ",
+    "NAME": "Mumbai testnet ",
     "SYMBOL": "matic",
     "ID": 80001
   },
